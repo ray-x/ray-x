@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-![ RayX's github stats ](https://github-readme-stats.vercel.app/api?username=ray-x&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ray-x&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc" />
+</p>
 
 **Languages and Tools:**
 <p align="center">
