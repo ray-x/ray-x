@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![ RayX's github stats ](https://github-readme-stats.vercel.app/api?username=ray-x&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=ed8cfc) 
+![ RayX's github stats ](https://github-readme-stats.vercel.app/api?username=ray-x&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc) 
 
 
 - 🔭 I’m currently working on ...
