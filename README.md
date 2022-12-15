@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ray-x&custom_title=🕯️Ürümqi⬜&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ray-x&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc" />
 </p>
 
 **Languages and Tools:**
