@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/ray-x/ray-x/resources/api.svg" />
+  <img src="https://github.com/ray-x/ray-x/blob/master/resources/api.svg" />
 </p>
 
 **Languages and Tools:**
